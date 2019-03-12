@@ -1,0 +1,995 @@
+fileFormatVersion: 2
+guid: ed0242e9ace17ac4b963d0a70795b185
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bed_bottom
+    100002: Bed_bottom001
+    100004: Bed_sheet
+    100006: Bed_sheet001
+    100008: Bed_sheet_003
+    100010: Bed_sheet_2
+    100012: Box001
+    100014: Box002
+    100016: Box003
+    100018: Box004
+    100020: Box005
+    100022: Box006
+    100024: Box007
+    100026: Box009
+    100028: Box009 1
+    100030: Box010
+    100032: Box012
+    100034: Box019
+    100036: Box022
+    100038: Box033
+    100040: Box034
+    100042: Box035
+    100044: Box039
+    100046: Box045
+    100048: Box046
+    100050: Box047
+    100052: Box048
+    100054: Box049
+    100056: Box051
+    100058: Box052
+    100060: Box053
+    100062: Box055
+    100064: Box056
+    100066: Box057
+    100068: Box059
+    100070: Box060
+    100072: Box062
+    100074: Box063
+    100076: Box065
+    100078: Box066
+    100080: c002
+    100082: c003
+    100084: c1
+    100086: Chair_body
+    100088: Chair_foot
+    100090: Cylinder013
+    100092: //RootNode
+    100094: Ground_wood
+    100096: Line002
+    100098: Line126
+    100100: Line128
+    100102: Line129
+    100104: Line130
+    100106: Line131
+    100108: Line132
+    100110: Line134
+    100112: Line135
+    100114: Line136
+    100116: Line137
+    100118: Line138
+    100120: Line140
+    100122: Line141
+    100124: Object001
+    100126: Rectangle001
+    100128: Rectangle124
+    100130: Rectangle126
+    100132: Rectangle127
+    100134: Rectangle129
+    100136: Rectangle130
+    100138: Rectangle132
+    100140: Rectangle133
+    100142: Roof_
+    100144: Shape006
+    100146: spotlight006
+    100148: spotlight007
+    100150: spotlight008
+    100152: spotlight009
+    100154: spotlight011
+    100156: spotlight012
+    100158: spotlight013
+    100160: spotlight014
+    100162: spotlight016
+    100164: spotlight017
+    100166: spotlight018
+    100168: spotlight019
+    100170: spotlight021
+    100172: spotlight022
+    100174: spotlight023
+    100176: spotlight024
+    100178: tv_SCALE002
+    100180: tv_SCALE003
+    100182: tv_SCALE004
+    100184: tv_SCALE005
+    100186: Wall_window_side002
+    100188: Wall_window_side003
+    100190: Wall_wood_finish002
+    100192: Wall_wood_finish003
+    100194: "\u6795\u5934006"
+    100196: "\u6795\u5934007"
+    100198: "\u6795\u5934010"
+    100200: "\u6795\u5934011"
+    100202: Box009_2
+    400000: Bed_bottom
+    400002: Bed_bottom001
+    400004: Bed_sheet
+    400006: Bed_sheet001
+    400008: Bed_sheet_003
+    400010: Bed_sheet_2
+    400012: Box001
+    400014: Box002
+    400016: Box003
+    400018: Box004
+    400020: Box005
+    400022: Box006
+    400024: Box007
+    400026: Box009
+    400028: Box009 1
+    400030: Box010
+    400032: Box012
+    400034: Box019
+    400036: Box022
+    400038: Box033
+    400040: Box034
+    400042: Box035
+    400044: Box039
+    400046: Box045
+    400048: Box046
+    400050: Box047
+    400052: Box048
+    400054: Box049
+    400056: Box051
+    400058: Box052
+    400060: Box053
+    400062: Box055
+    400064: Box056
+    400066: Box057
+    400068: Box059
+    400070: Box060
+    400072: Box062
+    400074: Box063
+    400076: Box065
+    400078: Box066
+    400080: c002
+    400082: c003
+    400084: c1
+    400086: Chair_body
+    400088: Chair_foot
+    400090: Cylinder013
+    400092: //RootNode
+    400094: Ground_wood
+    400096: Line002
+    400098: Line126
+    400100: Line128
+    400102: Line129
+    400104: Line130
+    400106: Line131
+    400108: Line132
+    400110: Line134
+    400112: Line135
+    400114: Line136
+    400116: Line137
+    400118: Line138
+    400120: Line140
+    400122: Line141
+    400124: Object001
+    400126: Rectangle001
+    400128: Rectangle124
+    400130: Rectangle126
+    400132: Rectangle127
+    400134: Rectangle129
+    400136: Rectangle130
+    400138: Rectangle132
+    400140: Rectangle133
+    400142: Roof_
+    400144: Shape006
+    400146: spotlight006
+    400148: spotlight007
+    400150: spotlight008
+    400152: spotlight009
+    400154: spotlight011
+    400156: spotlight012
+    400158: spotlight013
+    400160: spotlight014
+    400162: spotlight016
+    400164: spotlight017
+    400166: spotlight018
+    400168: spotlight019
+    400170: spotlight021
+    400172: spotlight022
+    400174: spotlight023
+    400176: spotlight024
+    400178: tv_SCALE002
+    400180: tv_SCALE003
+    400182: tv_SCALE004
+    400184: tv_SCALE005
+    400186: Wall_window_side002
+    400188: Wall_window_side003
+    400190: Wall_wood_finish002
+    400192: Wall_wood_finish003
+    400194: "\u6795\u5934006"
+    400196: "\u6795\u5934007"
+    400198: "\u6795\u5934010"
+    400200: "\u6795\u5934011"
+    400202: Box009_2
+    2100000: 02 - Defaults
+    2100002: 02 - Default
+    2100004: wood_finish
+    2100006: 10 - Default
+    2100008: wood_finish_
+    2100010: 04 - Default
+    2100012: wood_finish_2
+    2100014: 09 - Default
+    2100016: 08 - Default
+    2100018: 15 - Default
+    2100020: plastic
+    2100022: plastic_black
+    2100024: 07 - Default
+    2100026: brown
+    2100028: 17 - Default
+    2100030: black
+    2100032: white
+    2100034: silver
+    2100036: glass
+    2100038: glossy
+    2100040: 08 - Defaultf
+    2100042: 02 - Defaultggf
+    2100044: 07 - Defaultf
+    2100046: ww
+    2100048: wire_007007007d
+    2100050: wws
+    2100052: wwsgg
+    2100054: 02 - Defaultg
+    2100056: screen
+    2100058: 04 - Defaultg
+    2100060: G
+    2100062: 'Material #300'
+    2100064: 03 - Default
+    2100066: 02___Default
+    2100068: 'Material #134'
+    2100070: 11 - Defaultss
+    2100072: 09 - Defaultsa
+    2100074: 09 - Defaultsaff
+    2100076: 02 - Defaultd
+    2100078: wire_007007007
+    2100080: plastic_blackfs
+    2100082: wire_115115115
+    2100084: 03 - Defaultd
+    2100086: 04 - Default_2
+    2100088: 05 - Defaults
+    2100090: 04 - Default_2.1
+    2100092: 03 - Defaultd.1
+    2100094: wire_115115115.1
+    2100096: wood_finish_2.1
+    2100098: plastic_blackfs.1
+    2100100: wire_007007007.1
+    2100102: wood_finish_2.2
+    2100104: 02 - Default.1
+    2100106: 02 - Defaultd.1
+    2100108: 02 - Defaultd.2
+    2100110: 02 - Defaultd.3
+    2100112: wood_finish_2.3
+    2100114: wood_finish_2.4
+    2100116: 02 - Defaultggf.1
+    2100118: 02 - Defaultggf.2
+    2100120: wood_finish.1
+    2100122: 15 - Default.1
+    2100124: wood_finish_2.5
+    2100126: wood_finish.2
+    2100128: wood_finish.3
+    2100130: 02 - Default.2
+    2300000: Bed_bottom
+    2300002: Bed_bottom001
+    2300004: Bed_sheet
+    2300006: Bed_sheet001
+    2300008: Bed_sheet_003
+    2300010: Bed_sheet_2
+    2300012: Box001
+    2300014: Box002
+    2300016: Box003
+    2300018: Box004
+    2300020: Box005
+    2300022: Box006
+    2300024: Box007
+    2300026: Box009
+    2300028: Box009 1
+    2300030: Box010
+    2300032: Box012
+    2300034: Box019
+    2300036: Box022
+    2300038: Box033
+    2300040: Box034
+    2300042: Box035
+    2300044: Box039
+    2300046: Box045
+    2300048: Box046
+    2300050: Box047
+    2300052: Box048
+    2300054: Box049
+    2300056: Box051
+    2300058: Box052
+    2300060: Box053
+    2300062: Box055
+    2300064: Box056
+    2300066: Box057
+    2300068: Box059
+    2300070: Box060
+    2300072: Box062
+    2300074: Box063
+    2300076: Box065
+    2300078: Box066
+    2300080: c002
+    2300082: c003
+    2300084: c1
+    2300086: Chair_body
+    2300088: Chair_foot
+    2300090: Cylinder013
+    2300092: Ground_wood
+    2300094: Line002
+    2300096: Line126
+    2300098: Line128
+    2300100: Line129
+    2300102: Line130
+    2300104: Line131
+    2300106: Line132
+    2300108: Line134
+    2300110: Line135
+    2300112: Line136
+    2300114: Line137
+    2300116: Line138
+    2300118: Line140
+    2300120: Line141
+    2300122: Object001
+    2300124: Rectangle001
+    2300126: Rectangle124
+    2300128: Rectangle126
+    2300130: Rectangle127
+    2300132: Rectangle129
+    2300134: Rectangle130
+    2300136: Rectangle132
+    2300138: Rectangle133
+    2300140: Roof_
+    2300142: Shape006
+    2300144: spotlight006
+    2300146: spotlight007
+    2300148: spotlight008
+    2300150: spotlight009
+    2300152: spotlight011
+    2300154: spotlight012
+    2300156: spotlight013
+    2300158: spotlight014
+    2300160: spotlight016
+    2300162: spotlight017
+    2300164: spotlight018
+    2300166: spotlight019
+    2300168: spotlight021
+    2300170: spotlight022
+    2300172: spotlight023
+    2300174: spotlight024
+    2300176: tv_SCALE002
+    2300178: tv_SCALE003
+    2300180: tv_SCALE004
+    2300182: tv_SCALE005
+    2300184: Wall_window_side002
+    2300186: Wall_window_side003
+    2300188: Wall_wood_finish002
+    2300190: Wall_wood_finish003
+    2300192: "\u6795\u5934006"
+    2300194: "\u6795\u5934007"
+    2300196: "\u6795\u5934010"
+    2300198: "\u6795\u5934011"
+    2300200: Box009_2
+    3300000: Bed_bottom
+    3300002: Bed_bottom001
+    3300004: Bed_sheet
+    3300006: Bed_sheet001
+    3300008: Bed_sheet_003
+    3300010: Bed_sheet_2
+    3300012: Box001
+    3300014: Box002
+    3300016: Box003
+    3300018: Box004
+    3300020: Box005
+    3300022: Box006
+    3300024: Box007
+    3300026: Box009
+    3300028: Box009 1
+    3300030: Box010
+    3300032: Box012
+    3300034: Box019
+    3300036: Box022
+    3300038: Box033
+    3300040: Box034
+    3300042: Box035
+    3300044: Box039
+    3300046: Box045
+    3300048: Box046
+    3300050: Box047
+    3300052: Box048
+    3300054: Box049
+    3300056: Box051
+    3300058: Box052
+    3300060: Box053
+    3300062: Box055
+    3300064: Box056
+    3300066: Box057
+    3300068: Box059
+    3300070: Box060
+    3300072: Box062
+    3300074: Box063
+    3300076: Box065
+    3300078: Box066
+    3300080: c002
+    3300082: c003
+    3300084: c1
+    3300086: Chair_body
+    3300088: Chair_foot
+    3300090: Cylinder013
+    3300092: Ground_wood
+    3300094: Line002
+    3300096: Line126
+    3300098: Line128
+    3300100: Line129
+    3300102: Line130
+    3300104: Line131
+    3300106: Line132
+    3300108: Line134
+    3300110: Line135
+    3300112: Line136
+    3300114: Line137
+    3300116: Line138
+    3300118: Line140
+    3300120: Line141
+    3300122: Object001
+    3300124: Rectangle001
+    3300126: Rectangle124
+    3300128: Rectangle126
+    3300130: Rectangle127
+    3300132: Rectangle129
+    3300134: Rectangle130
+    3300136: Rectangle132
+    3300138: Rectangle133
+    3300140: Roof_
+    3300142: Shape006
+    3300144: spotlight006
+    3300146: spotlight007
+    3300148: spotlight008
+    3300150: spotlight009
+    3300152: spotlight011
+    3300154: spotlight012
+    3300156: spotlight013
+    3300158: spotlight014
+    3300160: spotlight016
+    3300162: spotlight017
+    3300164: spotlight018
+    3300166: spotlight019
+    3300168: spotlight021
+    3300170: spotlight022
+    3300172: spotlight023
+    3300174: spotlight024
+    3300176: tv_SCALE002
+    3300178: tv_SCALE003
+    3300180: tv_SCALE004
+    3300182: tv_SCALE005
+    3300184: Wall_window_side002
+    3300186: Wall_window_side003
+    3300188: Wall_wood_finish002
+    3300190: Wall_wood_finish003
+    3300192: "\u6795\u5934006"
+    3300194: "\u6795\u5934007"
+    3300196: "\u6795\u5934010"
+    3300198: "\u6795\u5934011"
+    3300200: Box009_2
+    4300000: Box004
+    4300002: Rectangle001
+    4300004: Roof_
+    4300006: Ground_wood
+    4300008: Box005
+    4300010: Box006
+    4300012: Box007
+    4300014: Box009
+    4300016: Box019
+    4300018: c002
+    4300020: c1
+    4300022: c003
+    4300024: Box039
+    4300026: Rectangle124
+    4300028: Wall_window_side002
+    4300030: Wall_window_side003
+    4300032: Line128
+    4300034: Line129
+    4300036: Line130
+    4300038: Line131
+    4300040: Line132
+    4300042: Line134
+    4300044: Line135
+    4300046: Line136
+    4300048: Line137
+    4300050: Line138
+    4300052: spotlight006
+    4300054: spotlight007
+    4300056: spotlight008
+    4300058: spotlight009
+    4300060: spotlight011
+    4300062: spotlight012
+    4300064: spotlight013
+    4300066: spotlight014
+    4300068: spotlight016
+    4300070: spotlight017
+    4300072: spotlight018
+    4300074: spotlight019
+    4300076: spotlight021
+    4300078: spotlight022
+    4300080: spotlight023
+    4300082: spotlight024
+    4300084: Rectangle126
+    4300086: Rectangle127
+    4300088: Rectangle129
+    4300090: Rectangle130
+    4300092: Rectangle132
+    4300094: Rectangle133
+    4300096: Wall_wood_finish002
+    4300098: Wall_wood_finish003
+    4300100: Box051
+    4300102: Box052
+    4300104: Box053
+    4300106: Box055
+    4300108: Box056
+    4300110: Box057
+    4300112: tv_SCALE002
+    4300114: tv_SCALE003
+    4300116: tv_SCALE004
+    4300118: tv_SCALE005
+    4300120: Box059
+    4300122: Box060
+    4300124: Box062
+    4300126: Box063
+    4300128: Box065
+    4300130: Box066
+    4300132: Line140
+    4300134: Line141
+    4300136: Line002
+    4300138: Box001
+    4300140: Box033
+    4300142: Box034
+    4300144: Cylinder013
+    4300146: Shape006
+    4300148: Box035
+    4300150: Box009
+    4300152: "\u6795\u5934011"
+    4300154: "\u6795\u5934010"
+    4300156: "\u6795\u5934006"
+    4300158: "\u6795\u5934007"
+    4300160: Object001
+    4300162: Box003
+    4300164: Box002
+    4300166: Chair_body
+    4300168: Chair_foot
+    4300170: Box022
+    4300172: Box045
+    4300174: Bed_bottom
+    4300176: Box012
+    4300178: Box010
+    4300180: Bed_sheet
+    4300182: Bed_sheet_2
+    4300184: Box049
+    4300186: Box048
+    4300188: Bed_bottom001
+    4300190: Box047
+    4300192: Box046
+    4300194: Bed_sheet001
+    4300196: Bed_sheet_003
+    4300198: Line126
+    4300200: Box009_2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: efd4f15a5f8a89740a57b952898ac263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Defaultd
+    second: {fileID: 2100000, guid: 16f277dda40be3446bedd3b79531524f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Defaultg
+    second: {fileID: 2100000, guid: 8f5bec794a2d7a64b959e8b5dae48076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Defaultggf
+    second: {fileID: 2100000, guid: 3fbc713481160f24bb1b686c905ee709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Defaults
+    second: {fileID: 2100000, guid: 1197178b2ed803a4bbda24222cc018e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02___Default
+    second: {fileID: 2100000, guid: 034870662b8268f4e8a29fbbb46cbb6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 9fa28940b27d3634d987f3ebad1cbed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Defaultd
+    second: {fileID: 2100000, guid: 04d4075000f40aa4584a0ef7f946e02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: bba9b2ca0a93a6e4cbc3dae50b375528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default_2
+    second: {fileID: 2100000, guid: 3e03a273de9c43841be7f1bdb8b0e6c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Defaultg
+    second: {fileID: 2100000, guid: 450e47eb5135dcc4d841ea8301fda79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Defaults
+    second: {fileID: 2100000, guid: 8668e85e563a1784e911e611b4c83fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 297ed67703653e84bbf2e77c4c8d7bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Defaultf
+    second: {fileID: 2100000, guid: f1722e25550274848a411462acca4637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: b5a5e7b3a92a4e24b916b3f1c658d937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Defaultf
+    second: {fileID: 2100000, guid: 4374a117d7204a9449d6e3bba75b30a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 2cf5a7c3541820446934e2f8e22dadda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Defaultsa
+    second: {fileID: 2100000, guid: 2542c6d1b033cc848958f3f1686e4652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Defaultsaff
+    second: {fileID: 2100000, guid: a1860d3976fd734418925e7a8a711a45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 1600e3484e5f4b0438a15a6566d60e02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Defaultss
+    second: {fileID: 2100000, guid: 3549fc1ad064a384db978ebad1d8fe2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 6d4bf3d9ee8f0a4439f856f114fbe787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: f92d04a54b50aa141852bdc995d7611a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G
+    second: {fileID: 2100000, guid: 8cf1ab1bc0657bc4dbeb76e8fe7c98ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #134'
+    second: {fileID: 2100000, guid: 4af910dccd26a0d4cae18b0b5e3eaed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #300'
+    second: {fileID: 2100000, guid: 810d062df7884ee4695c6adaf92186a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 97bdba5df84853e488d6e9f1500a0dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown
+    second: {fileID: 2100000, guid: 6d32407510b275a41882a63ff42916fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 3f51ae99cad6d8d4388641fcd8acc0c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glossy
+    second: {fileID: 2100000, guid: 1bfb0cc2d0acd7d4fa63bba4b38d898a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic
+    second: {fileID: 2100000, guid: 92eb8478b9e2e2940951f1b2e48f611c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_black
+    second: {fileID: 2100000, guid: 2fb774099511e3441b319db22711502a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_blackfs
+    second: {fileID: 2100000, guid: 8aa3838c5966f9c428fd44c425aa4b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen
+    second: {fileID: 2100000, guid: ebe669b1a1ba65745a2b30be4c6d494a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silver
+    second: {fileID: 2100000, guid: 90d3231cb0f11ef439727410b6ee96ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 8f50e186f50e69643aede841b6b9cfdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_007007007
+    second: {fileID: 2100000, guid: 4ed6a2d7dcca9ea4f8b5a6b57dbda941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_007007007d
+    second: {fileID: 2100000, guid: 13451865dadf36c419fdc68ca9db5fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_115115115
+    second: {fileID: 2100000, guid: 6af46627aa731514187bf1ce9953572e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_finish
+    second: {fileID: 2100000, guid: e527b89a4fb61574394e45e6252e91b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_finish_
+    second: {fileID: 2100000, guid: 0bb4ff6e2481e1545b2a9e5e7d28f3e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_finish_2
+    second: {fileID: 2100000, guid: 2b21e03e4a7419147912603c2ef4b215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ww
+    second: {fileID: 2100000, guid: e0787383814773d40b055f12a8309cae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wws
+    second: {fileID: 2100000, guid: da3d7feea729cb0498969d15a08fb2f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wwsgg
+    second: {fileID: 2100000, guid: a0cd84cf2764fb3439f5fe7c9814f566, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 171
+    second: {fileID: 2800000, guid: 8aec82f456924274c9f3bf62424c9e5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 171 - Copy (3)
+    second: {fileID: 2800000, guid: a2049708efabd8b46b2eb1331eee55cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2682-18
+    second: {fileID: 2800000, guid: 152542ac43bd79341842ce4d169db162, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2682-18 - Copy
+    second: {fileID: 2800000, guid: 0a42bdb39ae99d44da050d8cf692aa4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 35d9d598553d8b7aeaa2a34ee30fa141
+    second: {fileID: 2800000, guid: d8e4d77b43e578f4690ad961f235ab72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 455 - Copy
+    second: {fileID: 2800000, guid: be28075d48ca9a54dbe621d0dd720c66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AC11074RUG_HER
+    second: {fileID: 2800000, guid: 4fa0b107a3382e344b52b656cee6e747, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AC11074RUG_HER _2
+    second: {fileID: 2800000, guid: ea0e9ac7cb3720a4a88d79672b37fd30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AC11074RUG_HERO - Copy
+    second: {fileID: 2800000, guid: 405d1e4e2340c2f4caf447d77b0d423e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Large_0349612
+    second: {fileID: 2800000, guid: d5729c1945b52a44f8c608648dea94c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Z1
+    second: {fileID: 2800000, guid: 51d1d118149d9c0498d63ba18025fd81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Z1 - Copy
+    second: {fileID: 2800000, guid: 48239cd2539560c4ca907b1906942baf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaves
+    second: {fileID: 2800000, guid: 4a066975d4d6b5f4eafeea4617565bc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oak wood _4
+    second: {fileID: 2800000, guid: 5caf3f90439b61a4aa5566eb74f29e8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oak wood _4 _ref
+    second: {fileID: 2800000, guid: a575cbb0283041f438d4156df22ce7a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paper_1_diff
+    second: {fileID: 2800000, guid: ffe5384dc6173be4882c297af92b8d4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sc_normal
+    second: {fileID: 2800000, guid: 2dd90e93e72e73e4db90702fa36e0eeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: velvet_3
+    second: {fileID: 2800000, guid: fc6945c67fa1aa842a419369d87f94c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: velvet_3 - Copy
+    second: {fileID: 2800000, guid: 4fe0b4b0eec633a45b558bcc45c3d1d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_finish
+    second: {fileID: 2800000, guid: 6b7b67a60693385438d05d651f029e55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_finish_2
+    second: {fileID: 2800000, guid: f7d8d4511484e04479da8612a9aa1268, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
